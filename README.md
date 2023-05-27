@@ -1,3 +1,3 @@
-# Chat App with ReactJs and Firebase. :writing_hand:
+# Chat App with ReactJs and Firebase.
 
 * ReactJs + Firebase
